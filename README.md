@@ -1,0 +1,1 @@
+A4 operating system is a OS for raspberry pi pico and other MCU's that support micropython.This opretaing system is the most lighyweight version for a several KB's. This operating system is not for a arduino oled display.This version is for İDE terminal because of it you can not use these OS for oled lcd or any displays include laptop İDE terminal
